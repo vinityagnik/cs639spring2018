@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment-1</string>
+    <string name="strBird">Its a Bird</string>
+    <string name="strCat">Its a Cat</string>
+    <string name="strDog">Its a Dog</string>
+</resources>
